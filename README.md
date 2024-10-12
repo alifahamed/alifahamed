@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science/ML**
 
-- 📫 How to reach me? Just send email to **alif.ahmd@yahoo.com**
+- 📫 How to reach me? You can send email to me! **alif.ahmd@yahoo.com**
 
 # 🤝 Let's Connect:
 <p align="left">
